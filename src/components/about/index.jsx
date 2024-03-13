@@ -25,32 +25,35 @@ const AboutDetails = () => {
           </p>
         </ItemLayout>
         <ItemLayout
-          className={"col-span-full xs:col-span-6  lg:col-span-6 text-accent"}
+          className={
+            "col-span-full xs:col-span-6 flex-col items-start lg:col-span-6"
+          }
         >
-          <p className="font-semibold w-full text-left text-xl sm:text-2xl">
-            Aesthetics Matter{" "}
-            <sub className=" text-base font-normal text-zinc-100 ">
-              I don't just code; I design experiences. Paying attention to the
-              visual aspect of web development is crucial to me. I believe that
-              a well-designed interface enhances user engagement and contributes
-              to the overall success of a project.
-            </sub>
+          <h2 className="font-semibold w-full text-left text-xl sm:text-2xl  text-accent">
+            Aesthetics Matter
+          </h2>
+          <p className=" text-xs sm:text-sm md:text-base font-light  ">
+            I don't just code; I design experiences. Paying attention to the
+            visual aspect of web development is crucial to me. I believe that a
+            well-designed interface enhances user engagement and contributes to
+            the overall success of a project.
           </p>
         </ItemLayout>
         <ItemLayout
-          className={"col-span-full xs:col-span-6  lg:col-span-6 text-accent"}
+          className={
+            "col-span-full xs:col-span-6 flex-col items-start lg:col-span-6 "
+          }
         >
-          <p className="font-semibold w-full text-left text-xl sm:text-2xl">
-            Always Learning
-            <sub className=" text-base font-normal text-zinc-100">
-              {" "}
-              The dynamic nature of the tech industry inspires me to stay on the
-              cutting edge. I'm constantly learning and experimenting with new
-              tools and technologies to stay ahead of the curve. Whether it's
-              attending conferences, participating in online courses, or
-              contributing to open-source projects, I'm committed to continuous
-              growth.
-            </sub>
+          <h2 className="font-semibold w-full text-left text-xl sm:text-2xl text-accent">
+            Always Learning{" "}
+          </h2>
+          <p className=" text-xs sm:text-sm md:text-base font-light ">
+            The dynamic nature of the tech industry inspires me to stay on the
+            cutting edge. I'm constantly learning and experimenting with new
+            tools and technologies to stay ahead of the curve. Whether it's
+            attending conferences, participating in online courses, or
+            contributing to open-source projects, I'm committed to continuous
+            growth.
           </p>
         </ItemLayout>
         <ItemLayout
