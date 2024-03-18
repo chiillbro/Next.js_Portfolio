@@ -79,15 +79,16 @@ const AboutDetails = () => {
         <ItemLayout className={"col-span-full w-full text-accent"}>
           <img
             className="w-full h-auto"
-            src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,py,ts,tailwind,sass,postgres,prisma,git,vscode,vite"
+            src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,sass,postgres,prisma,redux,py,git,vscode,vite,netlify"
             alt="my skills"
             loading="lazy"
           />
         </ItemLayout>
+
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
           <img
             className="w-full h-auto"
-            src="https://github-readme-streak-stats.herokuapp.com?user=chiillbro&theme=dark&background=EB545400&hide_border=true&ring=FEFE5B&currStreakLabel=FEFE5B"
+            src="https://github-readme-streak-stats-ruddy-nine.vercel.app/?user=chiillbro&theme=dark&background=EB545400&hide_border=true&ring=FEFE5B&currStreakLabel=FEFE5B"
             alt="GitHub Streak"
             loading="lazy"
           />
