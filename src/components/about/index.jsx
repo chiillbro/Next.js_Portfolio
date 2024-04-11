@@ -98,7 +98,7 @@ const AboutDetails = () => {
         >
           <img
             className="w-full h-auto"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=chiillbro&repo=Food-Recipe-App&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFF&icon_color=FEFE5B&text_bold=false"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=chiillbro&repo=Mern-Movies-Database&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFF&icon_color=FEFE5B&text_bold=false"
             alt="my github stats"
             loading="lazy"
           />
