@@ -79,7 +79,7 @@ const AboutDetails = () => {
         <ItemLayout className={"col-span-full w-full text-accent"}>
           <img
             className="w-full h-auto"
-            src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,sass,postgres,prisma,redux,py,git,vscode,vite,netlify"
+            src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,ts,tailwind,sass,postgres,prisma,redux,py,django,threejs,git,github,vscode,vite,netlify,heroku,vercel"
             alt="my skills"
             loading="lazy"
           />
