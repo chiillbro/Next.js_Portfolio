@@ -19,27 +19,43 @@ Websites:
 export const projectsData = [
   {
     id: 1,
+    name: "Fullstack Movies Database",
+    description:
+      "Explore, manage, and enjoy your favorite movies with our MERN Movies Database",
+    date: "2024-04-06",
+    demoLink: "https://mern-movies-database.onrender.com",
+  },
+  {
+    id: 2,
+    name: "Fullstack Chat App",
+    description:
+      "Connect seamlessly and chat in real-time with our MERN-based Chat App powered by Socket.IO",
+    date: "2024-04-11",
+    demoLink: "https://chat-app-kowb.onrender.com",
+  },
+  {
+    id: 3,
     name: "Nike",
     description: "Nike website Landing page",
     date: "2024-03-06",
     demoLink: "https://nikeldngpage.netlify.app/",
   },
   {
-    id: 2,
+    id: 4,
     name: "Ochi",
     description: "Eye-sparkling landing page website",
     date: "2024-03-08",
     demoLink: "https://ochidsgns.netlify.app/",
   },
   {
-    id: 3,
+    id: 5,
     name: "Food Recipe App",
     description: "Discover new recipes",
     date: "2024-02-28",
     demoLink: "https://professionalchef.netlify.app/",
   },
   {
-    id: 4,
+    id: 6,
     name: "Accordion",
     description: "Created a fully functional accordion",
     date: "2024-03-03",
@@ -47,28 +63,28 @@ export const projectsData = [
   },
 
   {
-    id: 5,
+    id: 7,
     name: "Portfolio",
     description: "Crafted a fully responsive portfolio",
     date: "2024-03-06",
     demoLink: "https://sivasankarreddyasam.netlify.app/",
   },
   {
-    id: 6,
+    id: 8,
     name: "Movie-Database",
     description: "Browse your favorite movie",
     date: "2024-03-03",
     demoLink: "https://moviedtbs.netlify.app/",
   },
   {
-    id: 7,
+    id: 9,
     name: "Todo App",
     description: "Add your todo's today",
     date: "2024-02-26",
     demoLink: "https://yourtd.netlify.app/",
   },
   {
-    id: 8,
+    id: 10,
     name: "Quiz App",
     description: "Answer simple questions",
     date: "2024-02-23",
